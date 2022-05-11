@@ -1,17 +1,19 @@
-# Welcome to MkDocs
+# WHO AM I
+Minhao Zhang is  a rising junior at University of Washington ACMS - Data Science and Statistics with an interest in software engineering, data engineering, and computational linguistics.
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+# EDUCATION 
+**University of Washington**, Seattle WA
 
-## Commands
+Bachelor of Science - Applied and Computational Mathematical Science-Data Science and Statistics, expecting June 2024
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+- Overall GPA: 3.86/4.0
+- Ocurse Highlights: Introduction to Algorithm, Machine Learning, Software Design, Continuous Mathematical Modeling, Scientific Computing, Database Design
 
-## Project layout
+**Xi'an Jiaotong-Liverpool University**, Suzhou China, February - June 2021
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+- One semester of exchange(DECCA) with focus on exploring fields of data science and engineering
+
+# RESEARCH
+**Undergraduate Researcher** in Department of Speech and Hearing Science
+
+* Assisting developing a faster method of using Auditory Brainstem Response with Gaussian Process to diagnose the hearing loss in infants and animals

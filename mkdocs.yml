@@ -1,3 +1,8 @@
 site_name: Minhao Zhang
+
+nav:
+  - Home: index.md
+  - Research: research.md
+
 theme:
   name: material

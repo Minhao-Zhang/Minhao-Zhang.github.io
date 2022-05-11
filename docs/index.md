@@ -7,13 +7,30 @@ Minhao Zhang is  a rising junior at University of Washington ACMS - Data Science
 Bachelor of Science - Applied and Computational Mathematical Science-Data Science and Statistics, expecting June 2024
 
 - Overall GPA: 3.86/4.0
-- Ocurse Highlights: Introduction to Algorithm, Machine Learning, Software Design, Continuous Mathematical Modeling, Scientific Computing, Database Design
+- Dean's List: every quarter starting in 2021
+- Course Highlights: Introduction to Algorithm, Machine Learning, Software Design, Continuous Mathematical Modeling, Scientific Computing, Database Design
 
 **Xi'an Jiaotong-Liverpool University**, Suzhou China, February - June 2021
 
 - One semester of exchange(DECCA) with focus on exploring fields of data science and engineering
 
-# RESEARCH
-**Undergraduate Researcher** in Department of Speech and Hearing Science
+# [RESEARCH](./research.md)
+**Undergraduate Researcher** in [Department of Speech and Hearing Science](https://sphsc.washington.edu/), March 2022 - Present
 
-* Assisting developing a faster method of using Auditory Brainstem Response with Gaussian Process to diagnose the hearing loss in infants and animals
+- Assisting developing a faster method of using Auditory Brainstem Response with Gaussian Process to diagnose the hearing loss in infants and animals
+
+# EXPERIENCE
+**C21@Microsoft Mentee** in [Center for 21st Century Liberal Learning](https://c21.washington.edu/our-programs/c21microsoft), January - February 2022
+
+- A 6-week experience with software engineer from Microsoft discussing the professional work environment and the skillsets required to succeed in work
+
+**C21 Bootcamp Intern** in [Center for 21st Century Liberal Learning](https://c21.washington.edu/our-programs/c21microsoft), July 2021
+
+- Developed communication and project management skill and self-driven mindset in a working environment
+- Collaborated in peer to present a 4-page concise presentation on advertising College of Arts and Science to new students in University of Washington
+
+# SKILLSETS
+**Skillsets**
+
+- Familiar with Java, Python, Matlab, LaTex, and OCaml
+- Native Mandarin Proficiency and Full Professional English Proficiency

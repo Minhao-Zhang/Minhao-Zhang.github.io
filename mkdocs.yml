@@ -3,6 +3,7 @@ site_name: Minhao Zhang
 nav:
   - Home: index.md
   - Research: research.md
+  - "": todolist.md
 
 theme:
   name: material

@@ -1,6 +1,8 @@
 # Research Experience
 
-## need to fix this
+## Undergraduate Researcher 
+
+
 contextulize 
 
 delivery content: figures, challenges, how to overcome

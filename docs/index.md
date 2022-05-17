@@ -14,7 +14,7 @@ Bachelor of Science - Applied and Computational Mathematical Science-Data Scienc
 
 - One semester of exchange(DECCA) with focus on exploring fields of data science and engineering
 
-# [RESEARCH](./research.md)
+# [RESEARCH](./research)
 **Undergraduate Researcher** in [Department of Speech and Hearing Science](https://sphsc.washington.edu/), March 2022 - Present
 
 - Assisting developing a faster method of using Auditory Brainstem Response with Gaussian Process to diagnose the hearing loss in infants and animals
@@ -24,7 +24,7 @@ Bachelor of Science - Applied and Computational Mathematical Science-Data Scienc
 
 - A 6-week experience with software engineer from Microsoft discussing the professional work environment and the skillsets required to succeed in work
 
-**C21 Bootcamp Intern** in [Center for 21st Century Liberal Learning](https://c21.washington.edu/our-programs/c21microsoft), July 2021
+**C21 Bootcamp Intern** in [Center for 21st Century Liberal Learning](https://c21.washington.edu/our-programs/c21-internship-bootcamp), July 2021
 
 - Developed communication and project management skill and self-driven mindset in a working environment
 - Collaborated in peer to present a 4-page concise presentation on advertising College of Arts and Science to new students in University of Washington

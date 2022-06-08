@@ -17,7 +17,8 @@ Bachelor of Science - Applied and Computational Mathematical Science-Data Scienc
 # [RESEARCH](./research)
 **Undergraduate Researcher** in [Department of Speech and Hearing Science](https://sphsc.washington.edu/), March 2022 - Present
 
-- Assisting developing a faster method of using Auditory Brainstem Response with Gaussian Process to diagnose the hearing loss in infants and animals
+- Assisting developing a faster method of using Auditory Brainstem Response with Gaussian Process Machine Learning to diagnostic hearing impairment
+- Focused on noise characterization of Auditory Brainstem Response
 
 # EXPERIENCE
 **C21@Microsoft Mentee** in [Center for 21st Century Liberal Learning](https://c21.washington.edu/our-programs/c21microsoft), January - February 2022

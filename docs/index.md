@@ -12,7 +12,7 @@ Bachelor of Science - Applied and Computational Mathematical Science-Data Scienc
 
 **Xi'an Jiaotong-Liverpool University**, Suzhou China, February - June 2021
 
-- One semester of exchange(DECCA) with focus on exploring fields of data science and engineering
+- One semester of exchange (DECCA) with focus on exploring fields of data science and engineering
 
 # [RESEARCH](./research)
 **Undergraduate Researcher** in [Department of Speech and Hearing Science](https://sphsc.washington.edu/), March 2022 - Present

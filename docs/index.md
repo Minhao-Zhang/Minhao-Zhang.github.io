@@ -15,10 +15,10 @@ Bachelor of Science - Applied and Computational Mathematical Science-Data Scienc
 - One semester of exchange (DECCA) with focus on exploring fields of data science and engineering
 
 # [RESEARCH](./research)
-**Undergraduate Researcher** in [Department of Speech and Hearing Science](https://sphsc.washington.edu/), March 2022 - Present
+**Undergraduate Research Assistant** in [Department of Speech and Hearing Science](https://sphsc.washington.edu/), March 2022 - Present
 
 - Assisting developing a faster method of using Auditory Brainstem Response with Gaussian Process Machine Learning to diagnostic hearing impairment
-- Focused on noise characterization of Auditory Brainstem Response
+- Focused on noise characterization of [Auditory Brainstem Response](https://www.asha.org/public/hearing/auditory-brainstem-response/)
 
 # EXPERIENCE
 **C21@Microsoft Mentee** in [Center for 21st Century Liberal Learning](https://c21.washington.edu/our-programs/c21microsoft), January - February 2022

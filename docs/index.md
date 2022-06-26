@@ -1,5 +1,5 @@
 # WHO AM I
-Minhao Zhang is a rising junior at University of Washington ACMS - Data Science and Statistics with an interest in software engineering, data engineering, and computational linguistics.
+Minhao Zhang is a rising junior at University of Washington [ACMS - Data Science and Statistics](https://acms.washington.edu/program-overview) with an interest in software engineering, data engineering, and computational linguistics.
 
 # EDUCATION 
 **University of Washington**, Seattle WA
@@ -8,7 +8,7 @@ Bachelor of Science - Applied and Computational Mathematical Science-Data Scienc
 
 - Overall GPA: 3.88/4.0
 - Dean's List: every quarter starting in 2021
-- Course Highlights: Introduction to Algorithm, Machine Learning, Software Design, Introduction to Programming Languages, Continuous Mathematical Modeling, Scientific Computing, Database Design
+- Course Highlights: Data Structure, Software Design, Introduction to Algorithm, Machine Learning, Introduction to Programming Languages, Continuous Mathematical Modeling, Scientific Computing, Mathematical Analysis, Database Design
 
 **Xi'an Jiaotong-Liverpool University**, Suzhou China, February - June 2021
 

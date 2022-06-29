@@ -1,0 +1,22 @@
+:root > * {
+    --md-default-fg-color:          #4b2e83;
+    --md-default-fg-color--light:   #b7a57a;
+    --md-default-fg-color--lighter: #b7a57a;
+    --md-default-fg-color--dark:    #b7a57a;
+    --md-default-bg-color:          #eeeeee;
+
+    --md-accent-fg-color:           #85754d;
+
+    --md-footer-bg-color:          #4b2e83;
+    --md-footer-fg-color--light:   #b7a57a;
+    --md-footer-fg-color--dark:    #85754d;
+    
+    
+    --md-typeset-a-color:          #b7a57a;
+
+    --md-primary-fg-color:        #4b2e83;
+    --md-primary-fg-color--light: #b7a57a;
+    --md-primary-fg-color--dark:  #85754d;
+  }
+
+  

@@ -6,7 +6,7 @@ Minhao Zhang is a rising junior at University of Washington [ACMS - Data Science
 
 Bachelor of Science - Applied and Computational Mathematical Science-Data Science and Statistics, expecting June 2024
 
-- Overall GPA: 3.88/4.0
+- Overall GPA: 3.89/4.0
 - Dean's List: every quarter starting in 2021
 - Course Highlights: Data Structure, Software Design, Introduction to Algorithm, Machine Learning, Introduction to Programming Languages, Continuous Mathematical Modeling, Scientific Computing, Mathematical Analysis, Database Design
 

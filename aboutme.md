@@ -1,15 +1,12 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: I am always eager to learn.
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I am a data science student that focuses on responsible AI usage in emotional and mental health. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
+THIS IS STILL TEMPORARY. I WILL UPDATE THIS PAGE SOON.
 
 ### My story
 

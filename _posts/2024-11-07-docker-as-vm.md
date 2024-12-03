@@ -36,7 +36,6 @@ COPY . /workspace
 # Install other packages as needed
 RUN pip install jupyter
 
-
 # Expose Jupyter Notebook default port
 EXPOSE 8888
 
@@ -56,7 +55,7 @@ services:
     runtime: nvidia
     environment:
       - NVIDIA_VISIBLE_DEVICES=all  # Use all available GPUs
-      - NVIDIA_DRIVER_CAPABILITIES=compute,utility  # Necessary driver capabilities
+      - NVIDIA_DRIVER_CAPABILITIES=compute,utility  # Necessary driver capabilities, it could also include `video`
     ports:
       - "8888:8888"  # Map Jupyter Notebook port to host
     volumes:

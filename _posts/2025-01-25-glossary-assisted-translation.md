@@ -16,8 +16,7 @@ However, these videos I wish to translate contains a lot of domain-specific word
 
 ## Why is this even necessary 
 
-Machine Translation has had a surge after the introduciton of Large Language Models. 
-After all, machine translation is one of the most fundamental task that `Seq2Seq` task is built for. 
+Machine Translation has come a long way and it is now possible to translate between many languages with a high degree of accuracy.
 However, many current translation methods fail when you are translating a niche topic or your have a lot of jargons in your text. 
 Of course, there are services that will allow you to incorperate a glossary file into machine translation like [Google](https://cloud.google.com/translate/docs/advanced/glossary) or [DeepL](https://support.deepl.com/hc/en-us/articles/360021634540-About-the-glossary). 
 They are wonderful services that you can use right now to build a robust and reliable translation with glossary support. 
@@ -38,7 +37,7 @@ Here is another example.
 This might looks like gibberish to most people. 
 However, it makes perfect sense if you are playing Minecraft. 
 In this case, the word "pillar" referes to the action that player repeatedly places a block underneath the player while jumping in the air in order to go to high places. 
-Here, `pillar`, normally a noun, transformed into a verb in a linguistic process calling verbing or denominal. 
+Here, `pillar`, normally a noun, transformed into a verb in a linguistic process called verbing or denominal. 
 The current commercially available approach is not really suited for this task. 
 Thus, I decided to write one myself. 
 
@@ -51,3 +50,6 @@ With tools like `Ollama` and `vllm`, you can run many quantized LLM on your lapt
 On my RTX 4070 laptop with 8GB VRAM, I can comfortablly run `qwen2.5:7b` with `Q4_K_M` quantization using Ollama.
 
 With locally run LLMs, we can then use Zero-Shot or Chain-of-Thoughts prompting to provide relavent information to LLM so it can understand the context better. 
+Different from a raw glossary look-up table, we can provide definitons and examples to the LLM so it can understand the glossary better. 
+
+

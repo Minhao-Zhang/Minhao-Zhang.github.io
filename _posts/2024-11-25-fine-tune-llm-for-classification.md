@@ -5,8 +5,7 @@ subtitle: A step-by-step guide to fine-tuning Large Language Models for text cla
 # cover-img: /assets/img/path.jpg
 # thumbnail-img: /assets/img/thumb.png
 # share-img: /assets/img/path.jpg
-tags: [tutorial]
-author: Minhao Zhang
+tags: [tutorial, en]
 ---
 
 ## Introduction

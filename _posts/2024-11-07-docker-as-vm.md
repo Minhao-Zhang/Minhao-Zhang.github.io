@@ -5,8 +5,7 @@ subtitle: So you don't have to deal with Windows environment setup
 # cover-img: /assets/img/path.jpg
 # thumbnail-img: /assets/img/thumb.png
 # share-img: /assets/img/path.jpg
-tags: [tutorial]
-author: Minhao Zhang
+tags: [tutorial, en]
 ---
 
 ## Why?

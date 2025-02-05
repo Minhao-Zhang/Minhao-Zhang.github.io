@@ -144,12 +144,13 @@ The [original article](https://www.reddit.com/r/PromptEngineering/comments/1ieb6
     - 输出格式-受众适配
 
 2. **验证机制：**
-    ```
-    校验标准：
-    1. 量化指标强制嵌入
-    2. 行业标准引用
-    3. 可执行建议
-    ```
+```
+校验标准：
+1. 量化指标强制嵌入
+2. 行业标准引用
+3. 可执行建议
+```
+
 ## 8. 系列后续规划
 下期主题："思维链与推理技术"，将探讨：
 - Zero-shot 与 Few-shot 思维链

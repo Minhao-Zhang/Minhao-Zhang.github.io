@@ -5,6 +5,7 @@ categories:
 tags:
   - en
   - tutorial
+toc: True
 ---
 So you don't have to deal with Windows environment setup
 
